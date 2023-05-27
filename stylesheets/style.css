@@ -1,6 +1,20 @@
 body {
     color:rgb(198, 201, 172);
-    background-color: rgb(52, 52, 92);
+    background-color: rgb(40, 40, 68);
     /*font-family: "Noto Sans Nandinagari", sans-serif;*/
-    font-family: "Roboto Mono", sans-serif;
+    /*font-family: "Roboto Mono", sans-serif;*/
+    font-family: "Syne Mono", monospace;
+    margin: auto;
+    max-width: 900px;
+    min-width: 600px;
+}
+a {
+    color:rgb(198, 201, 172);
+}
+.project {
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.summary {
+    padding-left: 30px;
 }
