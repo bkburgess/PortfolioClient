@@ -8,6 +8,10 @@ body {
     max-width: 900px;
     min-width: 600px;
 }
+h1 {
+    font-size: 3em;
+    padding-top: 50px;
+}
 a {
     color:rgb(198, 201, 172);
 }
@@ -17,4 +21,10 @@ a {
 }
 .summary {
     padding-left: 30px;
+}
+img {
+    width: 5%;
+}
+.social {
+    padding-right: 30px;
 }
